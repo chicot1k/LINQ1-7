@@ -1,0 +1,7 @@
+C:\Users\Chicot1k\source\repos\LINQ4\LINQ4\bin\Debug\LINQ4.exe.config
+C:\Users\Chicot1k\source\repos\LINQ4\LINQ4\bin\Debug\LINQ4.exe
+C:\Users\Chicot1k\source\repos\LINQ4\LINQ4\bin\Debug\LINQ4.pdb
+C:\Users\Chicot1k\source\repos\LINQ4\LINQ4\obj\Debug\LINQ4.csprojAssemblyReference.cache
+C:\Users\Chicot1k\source\repos\LINQ4\LINQ4\obj\Debug\LINQ4.csproj.CoreCompileInputs.cache
+C:\Users\Chicot1k\source\repos\LINQ4\LINQ4\obj\Debug\LINQ4.exe
+C:\Users\Chicot1k\source\repos\LINQ4\LINQ4\obj\Debug\LINQ4.pdb

@@ -1,0 +1,7 @@
+C:\Users\Chicot1k\source\repos\LINQ5\LINQ5\bin\Debug\LINQ5.exe.config
+C:\Users\Chicot1k\source\repos\LINQ5\LINQ5\bin\Debug\LINQ5.exe
+C:\Users\Chicot1k\source\repos\LINQ5\LINQ5\bin\Debug\LINQ5.pdb
+C:\Users\Chicot1k\source\repos\LINQ5\LINQ5\obj\Debug\LINQ5.csprojAssemblyReference.cache
+C:\Users\Chicot1k\source\repos\LINQ5\LINQ5\obj\Debug\LINQ5.csproj.CoreCompileInputs.cache
+C:\Users\Chicot1k\source\repos\LINQ5\LINQ5\obj\Debug\LINQ5.exe
+C:\Users\Chicot1k\source\repos\LINQ5\LINQ5\obj\Debug\LINQ5.pdb
